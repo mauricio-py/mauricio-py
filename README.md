@@ -46,6 +46,10 @@
 
 ###
 
+>"A vantagem de ter péssima memória é divertir-se muitas vezes com as mesmas coisas boas como se fosse a primeira vez."
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mauricio-py/mauricio-py/output/snake.svg" alt="Snake animation" />
