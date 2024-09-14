@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Sou desenvolvedor de software BACKEND e apaixonado por computadores</p>
+<p align="left">Busco mostrar meu potencial e trabalhar meu network para minha evolução tanto profissional quanto pessoa, estudo sempre aprendo algo novo</p>
 
 ###
 
