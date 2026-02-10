@@ -2,15 +2,9 @@
 
 ###
 
-<p align="left">Sou desenvolvedor de software BACKEND e apaixonado por computadores.</p>
-<p align="left">Busco mostrar meu potencial e trabalhar meu network para minha evolução tanto profissional quanto pessoa, estudo sempre aprendo algo novo.</p>
+<p align="left">Sou um entusiasta da tecnologia apaixonado por resolver problemas através do código. Atualmente, estou focado em aprender Python e Node com foco em backend e construir projetos que facilitem o dia a dia.
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauricio-py&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricio-py&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
