@@ -42,24 +42,6 @@ Aberto a oportunidades, colaborações e boas conversas sobre tech! 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mauricioamaraldev&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-[![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioamaraldev&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&hide_border=true)](https://github.com/mauricioamaraldev)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioamaraldev&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)](https://github.com/mauricioamaraldev)
-
-
-
-
----
-
 ## 🚀 Projeto em destaque
 
 ### 🤖 GLPI + WhatsApp — Transcrição de Chamados
